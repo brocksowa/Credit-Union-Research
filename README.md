@@ -1,6 +1,6 @@
 # Credit-Union-Research
-A consultation research project for a credit union, looking at how to predict auto loan customer to full member conversion rates. The project required that I analyze their customer data in order to build member acquisition models.
+An intern research project for a credit union, looking at how to predict auto loan customer to full member conversion rates. The project required that I analyze their customer data in order to build member acquisition models.
 
 Specifically, this project explores customer conversions within banking, focusing on transitions from indirect to converted indirect members in a credit union. This research is done to aid banking institutions in enhancing customer relationships and optimizing conversion strategies. Using regression modeling and machine learning, I identify key factors driving conversions. Base logistic regression emerges as optimal for its simplicity and interpretability, informing demographic model utilization. Targeted advertising and promotions are recommended to facilitate conversions. Leveraging demographic data, cost-effective approaches are proposed, emphasizing importance on the variables, AGE_CLASS and STATE_STATUS.
 
-The data that was used is the sole property of the sponsor and so the files cannot be provided in order for replication. At the request of the Credit Union, I am only able to share the project if everything is kept anonymous.
+The data that was used is the sole property of the Credit Union and so the files cannot be provided in order for replication. At the request of the Credit Union, I am only able to share the project if everything is kept anonymous.
